@@ -15,8 +15,10 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
+        "@heroicons/react": "^2.1.1",
         "@mantine/core": "^7.5.3",
         "@mantine/hooks": "^7.5.3",
-        "alpinejs": "^3.13.5"
+        "alpinejs": "^3.13.5",
+        "tailwind": "^4.0.0"
     }
 }

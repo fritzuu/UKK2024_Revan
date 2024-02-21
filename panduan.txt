@@ -1,0 +1,8 @@
+code untuk menyambungkan ke storage
+
+cd public
+rm storage
+cd ..
+php artisan storage:link
+
+
